@@ -1,14 +1,14 @@
-# there is best model with accuracy of 91 percent across all other models
- ## some modeln which we compair together are :
-  * xgboost 91%
-  * randomforestclassifier 87%
-  * binarry classification
-  * rgdb
-  * transfer learning vgg6, vgg4 lower accuracy in our cases
+# There is best model with accuracy of 91 percent across all other models we trained on our sample datastes
+ ## some models which which we compaired together are :
+  * Xgboost 91%
+  * Randomforestclassifier 87%
+  * Binarry classification
+  * Rgdb
+  * Transfer learning vgg6, vgg4 lower accuracy  oops
     
 
-# at this tsage we are going to use thise one in productions area . 
+# At this Stage we are going to use thise one in productions area . 
 
 
-## we can add  or remove any features based on our business cases. 👍
+## We can add  or remove any features based on our business cases. 👍
     
