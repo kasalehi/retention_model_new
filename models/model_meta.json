@@ -1,0 +1,17 @@
+{
+  "features_cat": [
+    "MembershipSubCategory",
+    "MembershipTerm",
+    "MembershipType",
+    "PaymentFrequency",
+    "Gender"
+  ],
+  "features_num": [
+    "RegularPayment",
+    "Age",
+    "TotalAttendance"
+  ],
+  "target": "Churned",
+  "threshold_default": 0.5,
+  "scale_pos_weight": 1.0895396849671204
+}
